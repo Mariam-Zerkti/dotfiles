@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mariam.zerkti@gmail.com
+	name = Mariam Zerkti
